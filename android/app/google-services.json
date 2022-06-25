@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288815018931",
+    "project_id": "login-kopi",
+    "storage_bucket": "login-kopi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288815018931:android:09e2b2277cc81a8b4a51c6",
+        "android_client_info": {
+          "package_name": "programmerhandal.com.kopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288815018931-044m1khgq6q17ju637k6busorgaot4jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41vs3tOzGc_4gOY897u1Lt41V82bczAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288815018931-044m1khgq6q17ju637k6busorgaot4jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
